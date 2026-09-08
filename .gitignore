@@ -1,0 +1,8 @@
+results/
+output/
+work/
+*.log
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
