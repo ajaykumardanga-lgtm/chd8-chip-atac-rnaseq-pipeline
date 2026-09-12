@@ -66,7 +66,7 @@ Raw sequencing data are available at **GSE346086**.
 
 **Citation**
 
-If you use this code, please cite: Danga AK, Colantoni A, Pomella N, Ruiz Blanes N, Genovesi M, Ersoz F, Tartaglia GG, Fakhry MM, Cerase A. CHD8 orchestrates chromatin landscapes during early female neuronal differentiation. bioRxiv. 2026. doi: <https://doi.org/10.64898/2026.09.09.750428 
+If you use this code, please cite: Danga AK, Colantoni A, Pomella N, Ruiz Blanes N, Genovesi M, Ersoz F, Tartaglia GG, Fakhry MM, Cerase A. CHD8 orchestrates chromatin landscapes during early female neuronal differentiation. bioRxiv. 2026. doi: https://doi.org/10.64898/2026.09.09.750428 
 
 **Contact**
 
